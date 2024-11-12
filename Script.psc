@@ -2,15 +2,15 @@ Algoritmo Script
 	Definir horasextra,sueldototal,totaldededuccciones como entero
 	Imprimir "Ingresa tu nombre"
 	Leer nombre
-	Imprimir "Ingresa tu dirección"
-	Leer dirección
+	Imprimir "Ingresa tu direcciÃ³n"
+	Leer direcciÃ³n
 	Imprimir "Digite su puesto en la empresa"
 	Leer puesto
 	Imprimir "Sueldo que recibe"
 	Leer sueldo
-	Imprimir "Ingrese con número los días trabajados"
-	Leer díastrabajados
-	Imprimir "Ingrese con número las horas extras trabajadas"
+	Imprimir "Ingrese con nÃºmero los dÃ­as trabajados"
+	Leer dÃ­astrabajados
+	Imprimir "Ingrese con nÃºmero las horas extras trabajadas"
 	Leer horasextras
 	Si horasextras<=8 Entonces
 		sueldohorasextras=200*horasextras*2
