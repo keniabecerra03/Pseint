@@ -1,4 +1,5 @@
 Algoritmo Menuderecomendaciones	
+	Repetir
 	Escribir "Menú de recomendaciones:"
 	Escribir "Ingresa una opción con número:"
 	Escribir " 1.Literatura."
@@ -25,4 +26,5 @@ Algoritmo Menuderecomendaciones
 	Si op>5 Entonces
 	    Escribir "Opción no válida"
 	FinSi
+	Hasta que op=5
 FinAlgoritmo
